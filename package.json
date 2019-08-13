@@ -1,0 +1,23 @@
+{
+  "name": "clientdev4",
+  "version": "1.0.0",
+  "description": "My astonishing Nuxt.js project",
+  "author": "Ella",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.5.4",
+    "@nuxtjs/auth": "^4.5.3",
+    "nuxt-i18n": "6.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "0.5.6",
+    "vuetify-loader": "^1.2.2"
+  }
+}
